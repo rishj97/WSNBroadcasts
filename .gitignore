@@ -1,0 +1,8 @@
+Makefile
+symbols.*
+naiveflooding.csc
+naiveflooding.native
+naiveflooding.sky
+contiki*
+naivefloodingnotimeout.csc
+obj*
