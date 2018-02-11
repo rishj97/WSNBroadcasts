@@ -1,3 +1,4 @@
+import sys
 import numpy as np
 from datetime import datetime
 TOTAL_NODES = 30
@@ -11,7 +12,11 @@ def main():
     current_message_num = -1
     cur_start_time = None
     last_received_time = None
-    with open('Logs/log_full.txt') as log_file:
+    if len(sys.argv) > 1:
+        log_file = sys.argv[1]
+    else:
+        log_file = 'log_full.txt'
+    with open('Logs/' + log_file) as log_file:
         count = 0
         msg_times = {}
         msg_receivers = {}
