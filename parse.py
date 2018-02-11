@@ -76,7 +76,8 @@ def calc_avg_power_consumption(total_power_devices, power_readings):
     average_powers = [0.0] * TOTAL_NODES
 
     for device_index in range(TOTAL_NODES):
-        average_powers[device_index] = total_power_devices[device_index]/power_readings[device_index]
+        if not power_readings[device_index]:
+            average_powers[device_index] = total_power_devices[device_index]/power_readings[device_index]
 
     print "Average power consumption per node:\t", round(np.mean(average_powers), 2), "W"
 

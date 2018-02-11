@@ -17,6 +17,8 @@
 #include <stdlib.h>
 #include <powertrace.h>
 #define NO_OF_NODES 30
+// power trace interval in seconds
+#define POWERTRACE_INTERVAL 10
 
 struct message{
   uint16_t flood_id;
@@ -84,7 +86,7 @@ PROCESS_THREAD(main_process, ev, data)
   char *buf;
 
   PROCESS_BEGIN();
-  powertrace_start(CLOCK_SECOND * 10);
+  powertrace_start(CLOCK_SECOND * POWERTRACE_INTERVAL);
   broadcast_open(&broadcast, 129, &broadcast_call);
   if(linkaddr_node_addr.u8[0] == 1){
     ctimer_set(&message_sent, CLOCK_SECOND * 10,request_message,NULL);
