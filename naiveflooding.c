@@ -16,7 +16,7 @@
 #include <stdbool.h>
 #include <stdlib.h>
 #include <powertrace.h>
-#define NO_OF_NODES 15
+#define NO_OF_NODES 10
 // power trace interval in seconds
 #define POWERTRACE_INTERVAL 10
 
@@ -26,12 +26,14 @@ struct message{
   uint16_t flood_id;
   uint8_t node_count;
   uint8_t nodes[NO_OF_NODES];
+  uint8_t hops;
 };
 
 struct message payload_send,payload_recv;
 static struct broadcast_conn broadcast;
 static struct ctimer message_sent;
 static struct ctimer turn_mac_on;
+static struct ctimer brdcast_send;
 /*---------------------------------------------------------------------------*/
 PROCESS(main_process, "Naive Flooding");
 AUTOSTART_PROCESSES(&main_process);
@@ -48,6 +50,11 @@ request_message(void *ptr){
 static void
 mac_on(void *ptr){
   NETSTACK_MAC.on();
+}
+
+static void
+send_brdcast(void *ptr){
+  broadcast_send(&broadcast);
 }
 /*---------------------------------------------------------------------------*/
 static void
@@ -71,12 +78,14 @@ broadcast_recv(struct broadcast_conn *c, const linkaddr_t *from)
       received = true;
   }
 
-  if(!received){
+  payload_recv.hops += 1;
+
+  if(!received || payload_recv.hops < 3){
     payload_recv.nodes[payload_recv.node_count]  = linkaddr_node_addr.u8[0];
     payload_recv.node_count = payload_recv.node_count + 1;
 
     packetbuf_copyfrom(&payload_recv,sizeof(payload_recv));
-    broadcast_send(&broadcast);
+    ctimer_set(&brdcast_send, random_rand() % 5 * 0.001 * CLOCK_SECOND, send_brdcast, NULL);
 
     printf("Broadcast message sent\n");
     if(linkaddr_node_addr.u8[0] == 1){
@@ -111,6 +120,7 @@ PROCESS_THREAD(main_process, ev, data)
       payload_send.flood_id = atoi(buf);
       payload_send.nodes[0] = linkaddr_node_addr.u8[0];
       payload_send.node_count = 1;
+      payload_send.hops = 0;
       packetbuf_copyfrom(&payload_send, sizeof(payload_recv));
       NETSTACK_MAC.on();
       broadcast_send(&broadcast);

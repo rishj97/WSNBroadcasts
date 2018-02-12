@@ -1,7 +1,7 @@
 import sys
 import numpy as np
 from datetime import datetime
-TOTAL_NODES = 30
+TOTAL_NODES = 13
 DEVICE_NUM_INDEX = 4
 BROADCAST_INDEX = 2
 TIMESTAMP_INDEX = 0
