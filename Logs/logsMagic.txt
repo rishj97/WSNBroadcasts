@@ -1,0 +1,1206 @@
+00:00.293	ID:24	Rime started with address 24.0
+00:00.302	ID:24	MAC 18:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 24.
+00:00.312	ID:24	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.314	ID:24	Starting 'Naive Flooding'
+00:00.330	ID:8	Rime started with address 8.0
+00:00.340	ID:8	MAC 08:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 8.
+00:00.349	ID:8	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.351	ID:8	Starting 'Naive Flooding'
+00:00.399	ID:28	Rime started with address 28.0
+00:00.409	ID:28	MAC 1c:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 28.
+00:00.418	ID:28	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.420	ID:28	Starting 'Naive Flooding'
+00:00.448	ID:11	Rime started with address 11.0
+00:00.458	ID:11	MAC 0b:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 11.
+00:00.467	ID:11	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.469	ID:11	Starting 'Naive Flooding'
+00:00.494	ID:2	Rime started with address 2.0
+00:00.502	ID:30	Rime started with address 30.0
+00:00.503	ID:2	MAC 02:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 2.
+00:00.508	ID:6	Rime started with address 6.0
+00:00.511	ID:30	MAC 1e:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 30.
+00:00.512	ID:2	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.514	ID:2	Starting 'Naive Flooding'
+00:00.517	ID:6	MAC 06:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 6.
+00:00.521	ID:30	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.523	ID:30	Starting 'Naive Flooding'
+00:00.527	ID:6	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.529	ID:6	Starting 'Naive Flooding'
+00:00.584	ID:18	Rime started with address 18.0
+00:00.594	ID:18	MAC 12:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 18.
+00:00.603	ID:18	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.605	ID:18	Starting 'Naive Flooding'
+00:00.606	ID:4	Rime started with address 4.0
+00:00.615	ID:4	MAC 04:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 4.
+00:00.625	ID:4	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.627	ID:4	Starting 'Naive Flooding'
+00:00.640	ID:1	Rime started with address 1.0
+00:00.643	ID:27	Rime started with address 27.0
+00:00.649	ID:1	MAC 01:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 1.
+00:00.653	ID:27	MAC 1b:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 27.
+00:00.659	ID:1	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.659	ID:7	Rime started with address 7.0
+00:00.660	ID:1	Starting 'Naive Flooding'
+00:00.662	ID:27	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.664	ID:27	Starting 'Naive Flooding'
+00:00.669	ID:7	MAC 07:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 7.
+00:00.678	ID:7	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.680	ID:7	Starting 'Naive Flooding'
+00:00.708	ID:14	Rime started with address 14.0
+00:00.717	ID:14	MAC 0e:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 14.
+00:00.720	ID:15	Rime started with address 15.0
+00:00.725	ID:25	Rime started with address 25.0
+00:00.727	ID:14	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.729	ID:14	Starting 'Naive Flooding'
+00:00.730	ID:15	MAC 0f:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 15.
+00:00.730	ID:20	Rime started with address 20.0
+00:00.731	ID:16	Rime started with address 16.0
+00:00.735	ID:25	MAC 19:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 25.
+00:00.739	ID:15	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.740	ID:20	MAC 14:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 20.
+00:00.740	ID:16	MAC 10:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 16.
+00:00.741	ID:15	Starting 'Naive Flooding'
+00:00.744	ID:25	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.746	ID:25	Starting 'Naive Flooding'
+00:00.749	ID:20	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.750	ID:16	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.751	ID:20	Starting 'Naive Flooding'
+00:00.752	ID:16	Starting 'Naive Flooding'
+00:00.814	ID:10	Rime started with address 10.0
+00:00.824	ID:10	MAC 0a:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 10.
+00:00.833	ID:10	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.835	ID:10	Starting 'Naive Flooding'
+00:00.852	ID:12	Rime started with address 12.0
+00:00.861	ID:12	MAC 0c:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 12.
+00:00.871	ID:12	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.873	ID:12	Starting 'Naive Flooding'
+00:00.895	ID:29	Rime started with address 29.0
+00:00.904	ID:29	MAC 1d:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 29.
+00:00.914	ID:29	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.916	ID:29	Starting 'Naive Flooding'
+00:00.921	ID:22	Rime started with address 22.0
+00:00.930	ID:22	MAC 16:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 22.
+00:00.940	ID:22	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.942	ID:22	Starting 'Naive Flooding'
+00:00.948	ID:26	Rime started with address 26.0
+00:00.958	ID:26	MAC 1a:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 26.
+00:00.966	ID:9	Rime started with address 9.0
+00:00.967	ID:26	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.969	ID:26	Starting 'Naive Flooding'
+00:00.973	ID:5	Rime started with address 5.0
+00:00.975	ID:9	MAC 09:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 9.
+00:00.977	ID:19	Rime started with address 19.0
+00:00.982	ID:5	MAC 05:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 5.
+00:00.985	ID:9	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.986	ID:19	MAC 13:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 19.
+00:00.987	ID:9	Starting 'Naive Flooding'
+00:00.991	ID:5	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.993	ID:5	Starting 'Naive Flooding'
+00:00.996	ID:19	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:00.998	ID:19	Starting 'Naive Flooding'
+00:01.067	ID:17	Rime started with address 17.0
+00:01.076	ID:17	MAC 11:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 17.
+00:01.086	ID:17	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:01.088	ID:17	Starting 'Naive Flooding'
+00:01.142	ID:13	Rime started with address 13.0
+00:01.151	ID:13	MAC 0d:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 13.
+00:01.157	ID:3	Rime started with address 3.0
+00:01.160	ID:13	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:01.162	ID:13	Starting 'Naive Flooding'
+00:01.164	ID:21	Rime started with address 21.0
+00:01.166	ID:3	MAC 03:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 3.
+00:01.174	ID:21	MAC 15:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 21.
+00:01.176	ID:3	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:01.178	ID:3	Starting 'Naive Flooding'
+00:01.183	ID:21	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:01.185	ID:21	Starting 'Naive Flooding'
+00:01.203	ID:23	Rime started with address 23.0
+00:01.212	ID:23	MAC 17:00:00:00:00:00:00:00 Contiki-3.x-3148-geabb1ce started. Node id is set to 23.
+00:01.222	ID:23	nullsec CSMA nullrdc, channel check rate 128 Hz, radio channel 26
+00:01.224	ID:23	Starting 'Naive Flooding'
+00:10.659	ID:1	Send me a message
+00:10.677	ID:23	Broadcast message sent 1
+00:10.685	ID:16	Broadcast recv from 23 of 23 with id 1
+00:10.685	ID:20	Broadcast recv from 23 of 23 with id 1
+00:10.685	ID:25	Broadcast recv from 23 of 23 with id 1
+00:10.685	ID:29	Broadcast recv from 23 of 23 with id 1
+00:10.685	ID:30	Broadcast recv from 23 of 23 with id 1
+00:10.685	ID:15	Broadcast recv from 23 of 23 with id 1
+00:10.688	ID:25	Broadcast message sent
+00:10.688	ID:30	Broadcast message sent
+00:10.688	ID:15	Broadcast message sent
+00:10.688	ID:29	Broadcast message sent
+00:10.688	ID:16	Broadcast message sent
+00:10.688	ID:20	Broadcast message sent
+00:20.659	ID:1	Send me a message
+00:20.663	ID:15	Broadcast message sent 2
+00:20.671	ID:23	Broadcast recv from 15 of 15 with id 2
+00:20.671	ID:25	Broadcast recv from 15 of 15 with id 2
+00:20.671	ID:20	Broadcast recv from 15 of 15 with id 2
+00:20.674	ID:25	Broadcast message sent
+00:20.674	ID:23	Broadcast message sent
+00:20.674	ID:20	Broadcast message sent
+00:20.681	ID:21	Broadcast recv from 25 of 15 with id 2
+00:20.681	ID:28	Broadcast recv from 25 of 15 with id 2
+00:20.684	ID:28	Broadcast message sent
+00:20.684	ID:21	Broadcast message sent
+00:30.659	ID:1	Send me a message
+00:30.676	ID:22	Broadcast message sent 3
+00:30.684	ID:14	Broadcast recv from 22 of 22 with id 3
+00:30.687	ID:14	Broadcast message sent
+00:30.695	ID:21	Broadcast recv from 14 of 22 with id 3
+00:30.695	ID:22	Broadcast recv from 14 of 22 with id 3
+00:30.695	ID:18	Broadcast recv from 14 of 22 with id 3
+00:30.695	ID:28	Broadcast recv from 14 of 22 with id 3
+00:30.697	ID:21	Broadcast message sent
+00:30.697	ID:28	Broadcast message sent
+00:30.697	ID:18	Broadcast message sent
+00:40.659	ID:1	Send me a message
+00:40.665	ID:7	Broadcast message sent 4
+00:40.673	ID:6	Broadcast recv from 7 of 7 with id 4
+00:40.673	ID:8	Broadcast recv from 7 of 7 with id 4
+00:40.673	ID:4	Broadcast recv from 7 of 7 with id 4
+00:40.673	ID:5	Broadcast recv from 7 of 7 with id 4
+00:40.675	ID:8	Broadcast message sent
+00:40.675	ID:6	Broadcast message sent
+00:40.675	ID:4	Broadcast message sent
+00:40.675	ID:5	Broadcast message sent
+00:50.659	ID:1	Send me a message
+00:50.677	ID:1	Broadcast message sent 5
+00:50.685	ID:9	Broadcast recv from 1 of 1 with id 5
+00:50.685	ID:6	Broadcast recv from 1 of 1 with id 5
+00:50.687	ID:6	Broadcast message sent
+00:50.687	ID:9	Broadcast message sent
+00:50.695	ID:7	Broadcast recv from 6 of 1 with id 5
+00:50.695	ID:8	Broadcast recv from 6 of 1 with id 5
+00:50.697	ID:7	Broadcast message sent
+00:50.697	ID:8	Broadcast message sent
+01:00.675	ID:1	Send me a message
+01:00.689	ID:24	Broadcast message sent 6
+01:00.697	ID:12	Broadcast recv from 24 of 24 with id 6
+01:00.697	ID:13	Broadcast recv from 24 of 24 with id 6
+01:00.697	ID:18	Broadcast recv from 24 of 24 with id 6
+01:00.697	ID:17	Broadcast recv from 24 of 24 with id 6
+01:00.699	ID:18	Broadcast message sent
+01:00.699	ID:13	Broadcast message sent
+01:00.700	ID:12	Broadcast message sent
+01:00.700	ID:17	Broadcast message sent
+01:10.675	ID:1	Send me a message
+01:10.688	ID:26	Broadcast message sent 7
+01:10.696	ID:2	Broadcast recv from 26 of 26 with id 7
+01:10.696	ID:16	Broadcast recv from 26 of 26 with id 7
+01:10.696	ID:3	Broadcast recv from 26 of 26 with id 7
+01:10.696	ID:29	Broadcast recv from 26 of 26 with id 7
+01:10.696	ID:30	Broadcast recv from 26 of 26 with id 7
+01:10.696	ID:27	Broadcast recv from 26 of 26 with id 7
+01:10.699	ID:16	Broadcast message sent
+01:10.699	ID:29	Broadcast message sent
+01:10.699	ID:30	Broadcast message sent
+01:10.699	ID:2	Broadcast message sent
+01:10.699	ID:3	Broadcast message sent
+01:10.699	ID:27	Broadcast message sent
+01:10.707	ID:4	Broadcast recv from 2 of 26 with id 7
+01:10.709	ID:4	Broadcast message sent
+01:10.711	ID:5	Broadcast recv from 27 of 26 with id 7
+01:10.711	ID:26	Broadcast recv from 27 of 26 with id 7
+01:10.711	ID:2	Broadcast recv from 27 of 26 with id 7
+01:10.711	ID:8	Broadcast recv from 27 of 26 with id 7
+01:10.711	ID:30	Broadcast recv from 27 of 26 with id 7
+01:10.714	ID:5	Broadcast message sent
+01:10.714	ID:2	Broadcast message sent
+01:10.714	ID:8	Broadcast message sent
+01:10.714	ID:30	Broadcast message sent
+01:10.717	ID:9	Broadcast recv from 4 of 26 with id 7
+01:10.717	ID:10	Broadcast recv from 4 of 26 with id 7
+01:10.717	ID:7	Broadcast recv from 4 of 26 with id 7
+01:10.717	ID:6	Broadcast recv from 4 of 26 with id 7
+01:10.719	ID:9	Broadcast message sent
+01:10.719	ID:7	Broadcast message sent
+01:10.719	ID:6	Broadcast message sent
+01:10.719	ID:10	Broadcast message sent
+01:10.722	ID:5	Broadcast recv from 4 of 26 with id 7
+01:10.722	ID:16	Broadcast recv from 30 of 26 with id 7
+01:10.722	ID:2	Broadcast recv from 4 of 26 with id 7
+01:10.722	ID:23	Broadcast recv from 30 of 26 with id 7
+01:10.722	ID:8	Broadcast recv from 4 of 26 with id 7
+01:10.724	ID:5	Broadcast message sent
+01:10.724	ID:16	Broadcast message sent
+01:10.724	ID:8	Broadcast message sent
+01:10.724	ID:23	Broadcast message sent
+01:10.727	ID:3	Broadcast recv from 10 of 26 with id 7
+01:20.675	ID:1	Send me a message
+01:20.690	ID:9	Broadcast message sent 8
+01:20.698	ID:10	Broadcast recv from 9 of 9 with id 8
+01:20.698	ID:19	Broadcast recv from 9 of 9 with id 8
+01:20.698	ID:1	Broadcast recv from 9 of 9 with id 8
+01:20.698	ID:6	Broadcast recv from 9 of 9 with id 8
+01:20.700	ID:10	Broadcast message sent
+01:20.700	ID:1	Broadcast message sent
+01:20.701	ID:6	Broadcast message sent
+01:20.701	ID:19	Broadcast message sent
+01:20.706	ID:1	Send me a message
+01:20.708	ID:8	Broadcast recv from 6 of 9 with id 8
+01:20.708	ID:3	Broadcast recv from 10 of 9 with id 8
+01:20.710	ID:8	Broadcast message sent
+01:20.710	ID:3	Broadcast message sent
+01:20.718	ID:7	Broadcast recv from 8 of 9 with id 8
+01:20.718	ID:6	Broadcast recv from 8 of 9 with id 8
+01:20.718	ID:12	Broadcast recv from 3 of 9 with id 8
+01:20.718	ID:5	Broadcast recv from 8 of 9 with id 8
+01:20.718	ID:13	Broadcast recv from 3 of 9 with id 8
+01:20.718	ID:29	Broadcast recv from 3 of 9 with id 8
+01:20.718	ID:10	Broadcast recv from 3 of 9 with id 8
+01:20.720	ID:7	Broadcast message sent
+01:20.720	ID:12	Broadcast message sent
+01:20.720	ID:5	Broadcast message sent
+01:20.720	ID:13	Broadcast message sent
+01:20.720	ID:29	Broadcast message sent
+01:20.728	ID:16	Broadcast recv from 29 of 9 with id 8
+01:20.728	ID:17	Broadcast recv from 12 of 9 with id 8
+01:30.706	ID:1	Send me a message
+01:30.712	ID:7	Broadcast message sent 9
+01:30.720	ID:5	Broadcast recv from 7 of 7 with id 9
+01:30.720	ID:6	Broadcast recv from 7 of 7 with id 9
+01:30.720	ID:8	Broadcast recv from 7 of 7 with id 9
+01:30.720	ID:4	Broadcast recv from 7 of 7 with id 9
+01:30.722	ID:5	Broadcast message sent
+01:30.722	ID:6	Broadcast message sent
+01:30.722	ID:8	Broadcast message sent
+01:30.722	ID:4	Broadcast message sent
+01:40.706	ID:1	Send me a message
+01:40.710	ID:10	Broadcast message sent 10
+01:40.719	ID:19	Broadcast recv from 10 of 10 with id 10
+01:40.719	ID:3	Broadcast recv from 10 of 10 with id 10
+01:40.719	ID:2	Broadcast recv from 10 of 10 with id 10
+01:40.719	ID:4	Broadcast recv from 10 of 10 with id 10
+01:40.719	ID:9	Broadcast recv from 10 of 10 with id 10
+01:40.721	ID:19	Broadcast message sent
+01:40.721	ID:3	Broadcast message sent
+01:40.721	ID:2	Broadcast message sent
+01:40.721	ID:4	Broadcast message sent
+01:40.721	ID:9	Broadcast message sent
+01:40.729	ID:13	Broadcast recv from 3 of 10 with id 10
+01:40.729	ID:7	Broadcast recv from 4 of 10 with id 10
+01:40.729	ID:11	Broadcast recv from 19 of 10 with id 10
+01:40.731	ID:7	Broadcast message sent
+01:40.731	ID:13	Broadcast message sent
+01:40.731	ID:11	Broadcast message sent
+01:40.739	ID:4	Broadcast recv from 7 of 10 with id 10
+01:40.739	ID:5	Broadcast recv from 7 of 10 with id 10
+01:40.739	ID:6	Broadcast recv from 7 of 10 with id 10
+01:40.739	ID:8	Broadcast recv from 7 of 10 with id 10
+01:40.739	ID:21	Broadcast recv from 13 of 10 with id 10
+01:40.739	ID:29	Broadcast recv from 13 of 10 with id 10
+01:40.739	ID:3	Broadcast recv from 13 of 10 with id 10
+01:40.739	ID:25	Broadcast recv from 13 of 10 with id 10
+01:40.740	ID:17	Broadcast recv from 11 of 10 with id 10
+01:40.740	ID:19	Broadcast recv from 11 of 10 with id 10
+01:40.741	ID:5	Broadcast message sent
+01:40.741	ID:6	Broadcast message sent
+01:40.742	ID:8	Broadcast message sent
+01:40.742	ID:21	Broadcast message sent
+01:40.742	ID:29	Broadcast message sent
+01:40.742	ID:25	Broadcast message sent
+01:40.742	ID:17	Broadcast message sent
+01:40.749	ID:1	Broadcast recv from 6 of 10 with id 10
+01:40.750	ID:3	Broadcast recv from 29 of 10 with id 10
+01:40.750	ID:11	Broadcast recv from 17 of 10 with id 10
+01:50.706	ID:1	Send me a message
+02:00.706	ID:1	Send me a message
+02:00.713	ID:17	Broadcast message sent 11
+02:00.721	ID:11	Broadcast recv from 17 of 17 with id 11
+02:00.721	ID:12	Broadcast recv from 17 of 17 with id 11
+02:00.721	ID:24	Broadcast recv from 17 of 17 with id 11
+02:00.723	ID:11	Broadcast message sent
+02:00.724	ID:12	Broadcast message sent
+02:00.724	ID:24	Broadcast message sent
+02:00.732	ID:29	Broadcast recv from 12 of 17 with id 11
+02:00.732	ID:3	Broadcast recv from 12 of 17 with id 11
+02:00.732	ID:19	Broadcast recv from 11 of 17 with id 11
+02:00.734	ID:29	Broadcast message sent
+02:00.734	ID:3	Broadcast message sent
+02:00.734	ID:19	Broadcast message sent
+02:00.742	ID:11	Broadcast recv from 19 of 17 with id 11
+02:00.742	ID:9	Broadcast recv from 19 of 17 with id 11
+02:00.744	ID:9	Broadcast message sent
+02:00.752	ID:1	Broadcast recv from 9 of 17 with id 11
+02:00.752	ID:6	Broadcast recv from 9 of 17 with id 11
+02:00.752	ID:10	Broadcast recv from 9 of 17 with id 11
+02:00.752	ID:19	Broadcast recv from 9 of 17 with id 11
+02:00.752	ID:4	Broadcast recv from 9 of 17 with id 11
+02:10.706	ID:1	Send me a message
+02:10.710	ID:15	Broadcast message sent 12
+02:10.719	ID:25	Broadcast recv from 15 of 15 with id 12
+02:10.719	ID:23	Broadcast recv from 15 of 15 with id 12
+02:10.719	ID:20	Broadcast recv from 15 of 15 with id 12
+02:10.721	ID:23	Broadcast message sent
+02:10.721	ID:25	Broadcast message sent
+02:10.721	ID:20	Broadcast message sent
+02:10.729	ID:21	Broadcast recv from 25 of 15 with id 12
+02:10.729	ID:28	Broadcast recv from 25 of 15 with id 12
+02:10.731	ID:21	Broadcast message sent
+02:10.731	ID:28	Broadcast message sent
+02:20.706	ID:1	Send me a message
+02:20.725	ID:3	Broadcast message sent 13
+02:20.733	ID:10	Broadcast recv from 3 of 3 with id 13
+02:20.733	ID:26	Broadcast recv from 3 of 3 with id 13
+02:20.733	ID:13	Broadcast recv from 3 of 3 with id 13
+02:20.733	ID:29	Broadcast recv from 3 of 3 with id 13
+02:20.733	ID:12	Broadcast recv from 3 of 3 with id 13
+02:20.733	ID:2	Broadcast recv from 3 of 3 with id 13
+02:20.735	ID:10	Broadcast message sent
+02:20.735	ID:26	Broadcast message sent
+02:20.735	ID:13	Broadcast message sent
+02:20.735	ID:29	Broadcast message sent
+02:20.735	ID:12	Broadcast message sent
+02:20.735	ID:2	Broadcast message sent
+02:20.743	ID:19	Broadcast recv from 10 of 3 with id 13
+02:20.743	ID:9	Broadcast recv from 10 of 3 with id 13
+02:20.743	ID:17	Broadcast recv from 12 of 3 with id 13
+02:20.746	ID:19	Broadcast message sent
+02:20.746	ID:9	Broadcast message sent
+02:20.746	ID:17	Broadcast message sent
+02:20.754	ID:24	Broadcast recv from 17 of 3 with id 13
+02:20.754	ID:12	Broadcast recv from 17 of 3 with id 13
+02:20.756	ID:24	Broadcast message sent
+02:20.764	ID:17	Broadcast recv from 24 of 3 with id 13
+02:20.764	ID:18	Broadcast recv from 24 of 3 with id 13
+02:20.764	ID:13	Broadcast recv from 24 of 3 with id 13
+02:20.764	ID:12	Broadcast recv from 24 of 3 with id 13
+02:30.706	ID:1	Send me a message
+02:30.715	ID:18	Broadcast message sent 14
+02:30.723	ID:14	Broadcast recv from 18 of 18 with id 14
+02:30.723	ID:24	Broadcast recv from 18 of 18 with id 14
+02:30.723	ID:21	Broadcast recv from 18 of 18 with id 14
+02:30.725	ID:14	Broadcast message sent
+02:30.725	ID:24	Broadcast message sent
+02:30.725	ID:21	Broadcast message sent
+02:30.733	ID:17	Broadcast recv from 24 of 18 with id 14
+02:30.736	ID:17	Broadcast message sent
+02:30.744	ID:12	Broadcast recv from 17 of 18 with id 14
+02:30.744	ID:11	Broadcast recv from 17 of 18 with id 14
+02:30.744	ID:24	Broadcast recv from 17 of 18 with id 14
+02:30.746	ID:12	Broadcast message sent
+02:30.746	ID:11	Broadcast message sent
+02:30.754	ID:29	Broadcast recv from 12 of 18 with id 14
+02:30.754	ID:3	Broadcast recv from 12 of 18 with id 14
+02:30.754	ID:13	Broadcast recv from 12 of 18 with id 14
+02:30.754	ID:19	Broadcast recv from 11 of 18 with id 14
+02:40.706	ID:1	Send me a message
+02:40.710	ID:10	Broadcast message sent 15
+02:40.719	ID:19	Broadcast recv from 10 of 10 with id 15
+02:40.719	ID:3	Broadcast recv from 10 of 10 with id 15
+02:40.719	ID:2	Broadcast recv from 10 of 10 with id 15
+02:40.719	ID:4	Broadcast recv from 10 of 10 with id 15
+02:40.719	ID:9	Broadcast recv from 10 of 10 with id 15
+02:40.721	ID:19	Broadcast message sent
+02:40.721	ID:3	Broadcast message sent
+02:40.721	ID:2	Broadcast message sent
+02:40.721	ID:4	Broadcast message sent
+02:40.721	ID:9	Broadcast message sent
+02:40.729	ID:13	Broadcast recv from 3 of 10 with id 15
+02:40.729	ID:7	Broadcast recv from 4 of 10 with id 15
+02:40.729	ID:11	Broadcast recv from 19 of 10 with id 15
+02:40.731	ID:7	Broadcast message sent
+02:40.731	ID:13	Broadcast message sent
+02:40.731	ID:11	Broadcast message sent
+02:40.739	ID:4	Broadcast recv from 7 of 10 with id 15
+02:40.739	ID:5	Broadcast recv from 7 of 10 with id 15
+02:40.739	ID:6	Broadcast recv from 7 of 10 with id 15
+02:40.739	ID:8	Broadcast recv from 7 of 10 with id 15
+02:40.739	ID:21	Broadcast recv from 13 of 10 with id 15
+02:40.739	ID:29	Broadcast recv from 13 of 10 with id 15
+02:40.739	ID:3	Broadcast recv from 13 of 10 with id 15
+02:40.739	ID:25	Broadcast recv from 13 of 10 with id 15
+02:40.739	ID:19	Broadcast recv from 11 of 10 with id 15
+02:40.741	ID:5	Broadcast message sent
+02:40.741	ID:6	Broadcast message sent
+02:40.742	ID:8	Broadcast message sent
+02:40.742	ID:21	Broadcast message sent
+02:40.742	ID:29	Broadcast message sent
+02:40.742	ID:25	Broadcast message sent
+02:40.749	ID:1	Broadcast recv from 6 of 10 with id 15
+02:40.750	ID:18	Broadcast recv from 21 of 10 with id 15
+02:40.750	ID:3	Broadcast recv from 29 of 10 with id 15
+02:50.706	ID:1	Send me a message
+02:50.724	ID:23	Broadcast message sent 16
+02:50.732	ID:16	Broadcast recv from 23 of 23 with id 16
+02:50.732	ID:25	Broadcast recv from 23 of 23 with id 16
+02:50.732	ID:29	Broadcast recv from 23 of 23 with id 16
+02:50.732	ID:15	Broadcast recv from 23 of 23 with id 16
+02:50.732	ID:30	Broadcast recv from 23 of 23 with id 16
+02:50.732	ID:20	Broadcast recv from 23 of 23 with id 16
+02:50.735	ID:25	Broadcast message sent
+02:50.735	ID:15	Broadcast message sent
+02:50.735	ID:30	Broadcast message sent
+02:50.735	ID:29	Broadcast message sent
+02:50.735	ID:16	Broadcast message sent
+02:50.735	ID:20	Broadcast message sent
+03:00.706	ID:1	Send me a message
+03:00.723	ID:22	Broadcast message sent 17
+03:00.731	ID:14	Broadcast recv from 22 of 22 with id 17
+03:00.734	ID:14	Broadcast message sent
+03:00.742	ID:18	Broadcast recv from 14 of 22 with id 17
+03:00.742	ID:21	Broadcast recv from 14 of 22 with id 17
+03:00.742	ID:22	Broadcast recv from 14 of 22 with id 17
+03:00.742	ID:28	Broadcast recv from 14 of 22 with id 17
+03:00.744	ID:21	Broadcast message sent
+03:00.744	ID:28	Broadcast message sent
+03:00.744	ID:18	Broadcast message sent
+03:10.706	ID:1	Send me a message
+03:10.723	ID:22	Broadcast message sent 18
+03:10.731	ID:14	Broadcast recv from 22 of 22 with id 18
+03:10.734	ID:14	Broadcast message sent
+03:10.742	ID:18	Broadcast recv from 14 of 22 with id 18
+03:10.742	ID:21	Broadcast recv from 14 of 22 with id 18
+03:10.742	ID:22	Broadcast recv from 14 of 22 with id 18
+03:10.742	ID:28	Broadcast recv from 14 of 22 with id 18
+03:10.744	ID:21	Broadcast message sent
+03:10.744	ID:28	Broadcast message sent
+03:10.744	ID:18	Broadcast message sent
+03:20.706	ID:1	Send me a message
+03:20.720	ID:20	Broadcast message sent 19
+03:20.728	ID:23	Broadcast recv from 20 of 20 with id 19
+03:20.728	ID:15	Broadcast recv from 20 of 20 with id 19
+03:20.729	ID:16	Broadcast recv from 20 of 20 with id 19
+03:20.731	ID:15	Broadcast message sent
+03:20.731	ID:16	Broadcast message sent
+03:20.731	ID:23	Broadcast message sent
+03:30.706	ID:1	Send me a message
+03:30.721	ID:4	Broadcast message sent 20
+03:30.729	ID:2	Broadcast recv from 4 of 4 with id 20
+03:30.729	ID:6	Broadcast recv from 4 of 4 with id 20
+03:30.729	ID:7	Broadcast recv from 4 of 4 with id 20
+03:30.729	ID:8	Broadcast recv from 4 of 4 with id 20
+03:30.729	ID:10	Broadcast recv from 4 of 4 with id 20
+03:30.729	ID:9	Broadcast recv from 4 of 4 with id 20
+03:30.729	ID:5	Broadcast recv from 4 of 4 with id 20
+03:30.731	ID:2	Broadcast message sent
+03:30.731	ID:7	Broadcast message sent
+03:30.731	ID:8	Broadcast message sent
+03:30.731	ID:10	Broadcast message sent
+03:30.731	ID:9	Broadcast message sent
+03:30.731	ID:5	Broadcast message sent
+03:30.731	ID:6	Broadcast message sent
+03:40.706	ID:1	Send me a message
+03:50.706	ID:1	Send me a message
+03:50.713	ID:14	Broadcast message sent 21
+03:50.722	ID:28	Broadcast recv from 14 of 14 with id 21
+03:50.722	ID:18	Broadcast recv from 14 of 14 with id 21
+03:50.722	ID:21	Broadcast recv from 14 of 14 with id 21
+03:50.722	ID:22	Broadcast recv from 14 of 14 with id 21
+03:50.724	ID:18	Broadcast message sent
+03:50.724	ID:21	Broadcast message sent
+03:50.724	ID:22	Broadcast message sent
+03:50.724	ID:28	Broadcast message sent
+04:00.706	ID:1	Send me a message
+04:00.721	ID:4	Broadcast message sent 22
+04:00.729	ID:2	Broadcast recv from 4 of 4 with id 22
+04:00.729	ID:6	Broadcast recv from 4 of 4 with id 22
+04:00.729	ID:7	Broadcast recv from 4 of 4 with id 22
+04:00.729	ID:8	Broadcast recv from 4 of 4 with id 22
+04:00.729	ID:10	Broadcast recv from 4 of 4 with id 22
+04:00.729	ID:9	Broadcast recv from 4 of 4 with id 22
+04:00.729	ID:5	Broadcast recv from 4 of 4 with id 22
+04:00.731	ID:2	Broadcast message sent
+04:00.731	ID:7	Broadcast message sent
+04:00.731	ID:8	Broadcast message sent
+04:00.731	ID:10	Broadcast message sent
+04:00.731	ID:9	Broadcast message sent
+04:00.731	ID:5	Broadcast message sent
+04:00.731	ID:6	Broadcast message sent
+04:10.706	ID:1	Send me a message
+04:20.706	ID:1	Send me a message
+04:20.724	ID:1	Broadcast message sent 23
+04:20.732	ID:9	Broadcast recv from 1 of 1 with id 23
+04:20.732	ID:6	Broadcast recv from 1 of 1 with id 23
+04:20.734	ID:9	Broadcast message sent
+04:20.734	ID:6	Broadcast message sent
+04:20.742	ID:7	Broadcast recv from 6 of 1 with id 23
+04:20.742	ID:8	Broadcast recv from 6 of 1 with id 23
+04:20.744	ID:7	Broadcast message sent
+04:20.744	ID:8	Broadcast message sent
+04:30.722	ID:1	Send me a message
+04:30.729	ID:14	Broadcast message sent 24
+04:30.737	ID:18	Broadcast recv from 14 of 14 with id 24
+04:30.737	ID:28	Broadcast recv from 14 of 14 with id 24
+04:30.737	ID:21	Broadcast recv from 14 of 14 with id 24
+04:30.737	ID:22	Broadcast recv from 14 of 14 with id 24
+04:30.740	ID:18	Broadcast message sent
+04:30.740	ID:21	Broadcast message sent
+04:30.740	ID:22	Broadcast message sent
+04:30.740	ID:28	Broadcast message sent
+04:40.722	ID:1	Send me a message
+04:40.732	ID:19	Broadcast message sent 25
+04:40.741	ID:9	Broadcast recv from 19 of 19 with id 25
+04:40.741	ID:10	Broadcast recv from 19 of 19 with id 25
+04:40.741	ID:11	Broadcast recv from 19 of 19 with id 25
+04:40.743	ID:9	Broadcast message sent
+04:40.743	ID:10	Broadcast message sent
+04:40.743	ID:11	Broadcast message sent
+04:40.751	ID:1	Broadcast recv from 9 of 19 with id 25
+04:40.751	ID:3	Broadcast recv from 10 of 19 with id 25
+04:40.751	ID:2	Broadcast recv from 10 of 19 with id 25
+04:40.753	ID:1	Broadcast message sent
+04:40.753	ID:3	Broadcast message sent
+04:40.753	ID:2	Broadcast message sent
+04:40.759	ID:1	Send me a message
+04:40.761	ID:5	Broadcast recv from 2 of 19 with id 25
+04:40.761	ID:13	Broadcast recv from 3 of 19 with id 25
+04:40.761	ID:9	Broadcast recv from 1 of 19 with id 25
+04:40.764	ID:5	Broadcast message sent
+04:40.764	ID:13	Broadcast message sent
+04:40.772	ID:4	Broadcast recv from 5 of 19 with id 25
+04:40.772	ID:7	Broadcast recv from 5 of 19 with id 25
+04:40.772	ID:2	Broadcast recv from 5 of 19 with id 25
+04:40.772	ID:8	Broadcast recv from 5 of 19 with id 25
+04:40.772	ID:25	Broadcast recv from 13 of 19 with id 25
+04:40.772	ID:29	Broadcast recv from 13 of 19 with id 25
+04:40.772	ID:6	Broadcast recv from 5 of 19 with id 25
+04:40.772	ID:27	Broadcast recv from 5 of 19 with id 25
+04:40.772	ID:21	Broadcast recv from 13 of 19 with id 25
+04:40.772	ID:3	Broadcast recv from 13 of 19 with id 25
+04:50.753	ID:1	Send me a message
+04:50.764	ID:12	Broadcast message sent 26
+04:50.772	ID:3	Broadcast recv from 12 of 12 with id 26
+04:50.772	ID:13	Broadcast recv from 12 of 12 with id 26
+04:50.772	ID:29	Broadcast recv from 12 of 12 with id 26
+04:50.774	ID:3	Broadcast message sent
+04:50.774	ID:13	Broadcast message sent
+04:50.774	ID:29	Broadcast message sent
+04:50.782	ID:10	Broadcast recv from 3 of 12 with id 26
+04:50.783	ID:21	Broadcast recv from 13 of 12 with id 26
+04:50.783	ID:24	Broadcast recv from 13 of 12 with id 26
+04:50.785	ID:10	Broadcast message sent
+04:50.785	ID:21	Broadcast message sent
+04:50.785	ID:24	Broadcast message sent
+04:50.793	ID:4	Broadcast recv from 10 of 12 with id 26
+04:50.793	ID:3	Broadcast recv from 10 of 12 with id 26
+04:50.793	ID:2	Broadcast recv from 10 of 12 with id 26
+04:50.793	ID:19	Broadcast recv from 10 of 12 with id 26
+04:50.793	ID:28	Broadcast recv from 21 of 12 with id 26
+04:50.793	ID:9	Broadcast recv from 10 of 12 with id 26
+04:50.793	ID:25	Broadcast recv from 21 of 12 with id 26
+04:50.795	ID:4	Broadcast message sent
+04:50.795	ID:19	Broadcast message sent
+04:50.795	ID:2	Broadcast message sent
+04:50.795	ID:28	Broadcast message sent
+04:50.795	ID:9	Broadcast message sent
+04:50.795	ID:25	Broadcast message sent
+04:50.803	ID:7	Broadcast recv from 4 of 12 with id 26
+04:50.803	ID:3	Broadcast recv from 2 of 12 with id 26
+04:50.803	ID:11	Broadcast recv from 19 of 12 with id 26
+04:50.803	ID:23	Broadcast recv from 25 of 12 with id 26
+05:00.753	ID:1	Send me a message
+05:00.760	ID:5	Broadcast message sent 27
+05:00.768	ID:2	Broadcast recv from 5 of 5 with id 27
+05:00.768	ID:6	Broadcast recv from 5 of 5 with id 27
+05:00.768	ID:7	Broadcast recv from 5 of 5 with id 27
+05:00.768	ID:8	Broadcast recv from 5 of 5 with id 27
+05:00.768	ID:27	Broadcast recv from 5 of 5 with id 27
+05:00.768	ID:4	Broadcast recv from 5 of 5 with id 27
+05:00.770	ID:2	Broadcast message sent
+05:00.770	ID:7	Broadcast message sent
+05:00.770	ID:8	Broadcast message sent
+05:00.770	ID:27	Broadcast message sent
+05:00.770	ID:6	Broadcast message sent
+05:00.770	ID:4	Broadcast message sent
+05:10.753	ID:1	Send me a message
+05:10.757	ID:30	Broadcast message sent 28
+05:10.766	ID:27	Broadcast recv from 30 of 30 with id 28
+05:10.766	ID:23	Broadcast recv from 30 of 30 with id 28
+05:10.766	ID:26	Broadcast recv from 30 of 30 with id 28
+05:10.766	ID:29	Broadcast recv from 30 of 30 with id 28
+05:10.766	ID:16	Broadcast recv from 30 of 30 with id 28
+05:10.768	ID:23	Broadcast message sent
+05:10.768	ID:27	Broadcast message sent
+05:10.768	ID:26	Broadcast message sent
+05:10.768	ID:29	Broadcast message sent
+05:10.768	ID:16	Broadcast message sent
+05:20.753	ID:1	Send me a message
+05:20.760	ID:17	Broadcast message sent 29
+05:20.768	ID:11	Broadcast recv from 17 of 17 with id 29
+05:20.768	ID:12	Broadcast recv from 17 of 17 with id 29
+05:20.768	ID:24	Broadcast recv from 17 of 17 with id 29
+05:20.770	ID:11	Broadcast message sent
+05:20.770	ID:12	Broadcast message sent
+05:20.770	ID:24	Broadcast message sent
+05:20.778	ID:29	Broadcast recv from 12 of 17 with id 29
+05:20.778	ID:3	Broadcast recv from 12 of 17 with id 29
+05:20.778	ID:19	Broadcast recv from 11 of 17 with id 29
+05:20.781	ID:29	Broadcast message sent
+05:20.781	ID:3	Broadcast message sent
+05:20.781	ID:19	Broadcast message sent
+05:20.789	ID:11	Broadcast recv from 19 of 17 with id 29
+05:20.789	ID:9	Broadcast recv from 19 of 17 with id 29
+05:20.791	ID:9	Broadcast message sent
+05:20.799	ID:1	Broadcast recv from 9 of 17 with id 29
+05:20.799	ID:6	Broadcast recv from 9 of 17 with id 29
+05:20.799	ID:10	Broadcast recv from 9 of 17 with id 29
+05:20.799	ID:19	Broadcast recv from 9 of 17 with id 29
+05:20.799	ID:4	Broadcast recv from 9 of 17 with id 29
+05:30.753	ID:1	Send me a message
+05:30.765	ID:2	Broadcast message sent 30
+05:30.773	ID:4	Broadcast recv from 2 of 2 with id 30
+05:30.773	ID:26	Broadcast recv from 2 of 2 with id 30
+05:30.773	ID:27	Broadcast recv from 2 of 2 with id 30
+05:30.773	ID:5	Broadcast recv from 2 of 2 with id 30
+05:30.773	ID:10	Broadcast recv from 2 of 2 with id 30
+05:30.773	ID:3	Broadcast recv from 2 of 2 with id 30
+05:30.775	ID:4	Broadcast message sent
+05:30.775	ID:26	Broadcast message sent
+05:30.775	ID:27	Broadcast message sent
+05:30.775	ID:5	Broadcast message sent
+05:30.775	ID:10	Broadcast message sent
+05:30.775	ID:3	Broadcast message sent
+05:30.783	ID:13	Broadcast recv from 3 of 2 with id 30
+05:30.786	ID:13	Broadcast message sent
+05:30.793	ID:24	Broadcast recv from 13 of 2 with id 30
+05:30.793	ID:29	Broadcast recv from 13 of 2 with id 30
+05:30.793	ID:12	Broadcast recv from 13 of 2 with id 30
+05:30.793	ID:21	Broadcast recv from 13 of 2 with id 30
+05:30.794	ID:3	Broadcast recv from 13 of 2 with id 30
+05:30.794	ID:25	Broadcast recv from 13 of 2 with id 30
+05:30.796	ID:29	Broadcast message sent
+05:30.796	ID:12	Broadcast message sent
+05:30.796	ID:24	Broadcast message sent
+05:30.796	ID:21	Broadcast message sent
+05:30.796	ID:25	Broadcast message sent
+05:30.804	ID:30	Broadcast recv from 29 of 2 with id 30
+05:40.753	ID:1	Send me a message
+05:40.772	ID:3	Broadcast message sent 31
+05:40.780	ID:10	Broadcast recv from 3 of 3 with id 31
+05:40.780	ID:2	Broadcast recv from 3 of 3 with id 31
+05:40.780	ID:13	Broadcast recv from 3 of 3 with id 31
+05:40.780	ID:26	Broadcast recv from 3 of 3 with id 31
+05:40.780	ID:29	Broadcast recv from 3 of 3 with id 31
+05:40.780	ID:12	Broadcast recv from 3 of 3 with id 31
+05:40.782	ID:10	Broadcast message sent
+05:40.782	ID:2	Broadcast message sent
+05:40.782	ID:13	Broadcast message sent
+05:40.782	ID:26	Broadcast message sent
+05:40.782	ID:29	Broadcast message sent
+05:40.782	ID:12	Broadcast message sent
+05:40.790	ID:19	Broadcast recv from 10 of 3 with id 31
+05:40.790	ID:9	Broadcast recv from 10 of 3 with id 31
+05:40.790	ID:17	Broadcast recv from 12 of 3 with id 31
+05:40.792	ID:19	Broadcast message sent
+05:40.792	ID:9	Broadcast message sent
+05:40.793	ID:17	Broadcast message sent
+05:40.801	ID:24	Broadcast recv from 17 of 3 with id 31
+05:40.801	ID:12	Broadcast recv from 17 of 3 with id 31
+05:40.803	ID:24	Broadcast message sent
+05:40.811	ID:17	Broadcast recv from 24 of 3 with id 31
+05:40.811	ID:18	Broadcast recv from 24 of 3 with id 31
+05:40.811	ID:13	Broadcast recv from 24 of 3 with id 31
+05:40.811	ID:12	Broadcast recv from 24 of 3 with id 31
+05:50.753	ID:1	Send me a message
+05:50.764	ID:28	Broadcast message sent 32
+05:50.773	ID:25	Broadcast recv from 28 of 28 with id 32
+05:50.773	ID:21	Broadcast recv from 28 of 28 with id 32
+05:50.773	ID:14	Broadcast recv from 28 of 28 with id 32
+05:50.775	ID:25	Broadcast message sent
+05:50.775	ID:21	Broadcast message sent
+05:50.775	ID:14	Broadcast message sent
+05:50.783	ID:23	Broadcast recv from 25 of 28 with id 32
+05:50.785	ID:23	Broadcast message sent
+05:50.793	ID:16	Broadcast recv from 23 of 28 with id 32
+05:50.793	ID:20	Broadcast recv from 23 of 28 with id 32
+05:50.793	ID:29	Broadcast recv from 23 of 28 with id 32
+05:50.793	ID:30	Broadcast recv from 23 of 28 with id 32
+05:50.793	ID:15	Broadcast recv from 23 of 28 with id 32
+05:50.794	ID:25	Broadcast recv from 23 of 28 with id 32
+05:50.796	ID:29	Broadcast message sent
+05:50.796	ID:30	Broadcast message sent
+05:50.796	ID:15	Broadcast message sent
+05:50.796	ID:16	Broadcast message sent
+05:50.796	ID:20	Broadcast message sent
+05:50.804	ID:12	Broadcast recv from 29 of 28 with id 32
+06:00.753	ID:1	Send me a message
+06:00.760	ID:5	Broadcast message sent 33
+06:00.768	ID:2	Broadcast recv from 5 of 5 with id 33
+06:00.768	ID:7	Broadcast recv from 5 of 5 with id 33
+06:00.768	ID:27	Broadcast recv from 5 of 5 with id 33
+06:00.768	ID:6	Broadcast recv from 5 of 5 with id 33
+06:00.768	ID:8	Broadcast recv from 5 of 5 with id 33
+06:00.768	ID:4	Broadcast recv from 5 of 5 with id 33
+06:00.770	ID:2	Broadcast message sent
+06:00.770	ID:7	Broadcast message sent
+06:00.770	ID:27	Broadcast message sent
+06:00.770	ID:8	Broadcast message sent
+06:00.770	ID:6	Broadcast message sent
+06:00.770	ID:4	Broadcast message sent
+06:10.753	ID:1	Send me a message
+06:10.767	ID:24	Broadcast message sent 34
+06:10.775	ID:12	Broadcast recv from 24 of 24 with id 34
+06:10.775	ID:13	Broadcast recv from 24 of 24 with id 34
+06:10.775	ID:18	Broadcast recv from 24 of 24 with id 34
+06:10.775	ID:17	Broadcast recv from 24 of 24 with id 34
+06:10.778	ID:18	Broadcast message sent
+06:10.778	ID:13	Broadcast message sent
+06:10.778	ID:12	Broadcast message sent
+06:10.778	ID:17	Broadcast message sent
+06:20.753	ID:1	Send me a message
+06:20.762	ID:18	Broadcast message sent 35
+06:20.770	ID:14	Broadcast recv from 18 of 18 with id 35
+06:20.770	ID:24	Broadcast recv from 18 of 18 with id 35
+06:20.770	ID:21	Broadcast recv from 18 of 18 with id 35
+06:20.772	ID:14	Broadcast message sent
+06:20.772	ID:24	Broadcast message sent
+06:20.772	ID:21	Broadcast message sent
+06:20.780	ID:17	Broadcast recv from 24 of 18 with id 35
+06:20.783	ID:17	Broadcast message sent
+06:20.791	ID:12	Broadcast recv from 17 of 18 with id 35
+06:20.791	ID:11	Broadcast recv from 17 of 18 with id 35
+06:20.791	ID:24	Broadcast recv from 17 of 18 with id 35
+06:20.793	ID:12	Broadcast message sent
+06:20.793	ID:11	Broadcast message sent
+06:20.801	ID:29	Broadcast recv from 12 of 18 with id 35
+06:20.801	ID:3	Broadcast recv from 12 of 18 with id 35
+06:20.801	ID:13	Broadcast recv from 12 of 18 with id 35
+06:20.801	ID:19	Broadcast recv from 11 of 18 with id 35
+06:30.753	ID:1	Send me a message
+06:30.757	ID:10	Broadcast message sent 36
+06:30.765	ID:3	Broadcast recv from 10 of 10 with id 36
+06:30.765	ID:19	Broadcast recv from 10 of 10 with id 36
+06:30.766	ID:2	Broadcast recv from 10 of 10 with id 36
+06:30.766	ID:4	Broadcast recv from 10 of 10 with id 36
+06:30.766	ID:9	Broadcast recv from 10 of 10 with id 36
+06:30.768	ID:3	Broadcast message sent
+06:30.768	ID:19	Broadcast message sent
+06:30.768	ID:2	Broadcast message sent
+06:30.768	ID:4	Broadcast message sent
+06:30.768	ID:9	Broadcast message sent
+06:30.776	ID:13	Broadcast recv from 3 of 10 with id 36
+06:30.776	ID:7	Broadcast recv from 4 of 10 with id 36
+06:30.776	ID:11	Broadcast recv from 19 of 10 with id 36
+06:30.778	ID:7	Broadcast message sent
+06:30.778	ID:13	Broadcast message sent
+06:30.778	ID:11	Broadcast message sent
+06:30.786	ID:4	Broadcast recv from 7 of 10 with id 36
+06:30.786	ID:5	Broadcast recv from 7 of 10 with id 36
+06:30.786	ID:6	Broadcast recv from 7 of 10 with id 36
+06:30.786	ID:8	Broadcast recv from 7 of 10 with id 36
+06:30.786	ID:21	Broadcast recv from 13 of 10 with id 36
+06:30.786	ID:29	Broadcast recv from 13 of 10 with id 36
+06:30.786	ID:3	Broadcast recv from 13 of 10 with id 36
+06:30.786	ID:25	Broadcast recv from 13 of 10 with id 36
+06:30.786	ID:19	Broadcast recv from 11 of 10 with id 36
+06:30.788	ID:5	Broadcast message sent
+06:30.788	ID:6	Broadcast message sent
+06:30.788	ID:8	Broadcast message sent
+06:30.788	ID:21	Broadcast message sent
+06:30.789	ID:29	Broadcast message sent
+06:30.789	ID:25	Broadcast message sent
+06:30.796	ID:1	Broadcast recv from 6 of 10 with id 36
+06:30.797	ID:18	Broadcast recv from 21 of 10 with id 36
+06:30.797	ID:3	Broadcast recv from 29 of 10 with id 36
+06:40.753	ID:1	Send me a message
+06:40.767	ID:24	Broadcast message sent 37
+06:40.775	ID:13	Broadcast recv from 24 of 24 with id 37
+06:40.775	ID:18	Broadcast recv from 24 of 24 with id 37
+06:40.778	ID:18	Broadcast message sent
+06:40.778	ID:13	Broadcast message sent
+06:40.786	ID:29	Broadcast recv from 13 of 24 with id 37
+06:40.786	ID:3	Broadcast recv from 13 of 24 with id 37
+06:40.786	ID:25	Broadcast recv from 13 of 24 with id 37
+06:40.788	ID:3	Broadcast message sent
+06:40.788	ID:29	Broadcast message sent
+06:40.788	ID:25	Broadcast message sent
+06:40.796	ID:10	Broadcast recv from 3 of 24 with id 37
+06:40.796	ID:21	Broadcast recv from 25 of 24 with id 37
+06:40.796	ID:28	Broadcast recv from 25 of 24 with id 37
+06:40.798	ID:10	Broadcast message sent
+06:40.798	ID:21	Broadcast message sent
+06:40.798	ID:28	Broadcast message sent
+06:40.806	ID:3	Broadcast recv from 10 of 24 with id 37
+06:40.806	ID:19	Broadcast recv from 10 of 24 with id 37
+06:40.806	ID:4	Broadcast recv from 10 of 24 with id 37
+06:40.806	ID:9	Broadcast recv from 10 of 24 with id 37
+06:40.806	ID:2	Broadcast recv from 10 of 24 with id 37
+06:50.753	ID:1	Send me a message
+06:50.757	ID:10	Broadcast message sent 38
+06:50.765	ID:3	Broadcast recv from 10 of 10 with id 38
+06:50.765	ID:19	Broadcast recv from 10 of 10 with id 38
+06:50.766	ID:2	Broadcast recv from 10 of 10 with id 38
+06:50.766	ID:4	Broadcast recv from 10 of 10 with id 38
+06:50.766	ID:9	Broadcast recv from 10 of 10 with id 38
+06:50.768	ID:3	Broadcast message sent
+06:50.768	ID:19	Broadcast message sent
+06:50.768	ID:2	Broadcast message sent
+06:50.768	ID:4	Broadcast message sent
+06:50.768	ID:9	Broadcast message sent
+06:50.776	ID:13	Broadcast recv from 3 of 10 with id 38
+06:50.776	ID:7	Broadcast recv from 4 of 10 with id 38
+06:50.776	ID:11	Broadcast recv from 19 of 10 with id 38
+06:50.778	ID:7	Broadcast message sent
+06:50.778	ID:13	Broadcast message sent
+06:50.778	ID:11	Broadcast message sent
+06:50.786	ID:4	Broadcast recv from 7 of 10 with id 38
+06:50.786	ID:5	Broadcast recv from 7 of 10 with id 38
+06:50.786	ID:6	Broadcast recv from 7 of 10 with id 38
+06:50.786	ID:8	Broadcast recv from 7 of 10 with id 38
+06:50.786	ID:21	Broadcast recv from 13 of 10 with id 38
+06:50.786	ID:29	Broadcast recv from 13 of 10 with id 38
+06:50.786	ID:3	Broadcast recv from 13 of 10 with id 38
+06:50.786	ID:25	Broadcast recv from 13 of 10 with id 38
+06:50.786	ID:19	Broadcast recv from 11 of 10 with id 38
+06:50.788	ID:5	Broadcast message sent
+06:50.788	ID:6	Broadcast message sent
+06:50.788	ID:8	Broadcast message sent
+06:50.788	ID:21	Broadcast message sent
+06:50.789	ID:29	Broadcast message sent
+06:50.789	ID:25	Broadcast message sent
+06:50.796	ID:1	Broadcast recv from 6 of 10 with id 38
+06:50.797	ID:18	Broadcast recv from 21 of 10 with id 38
+06:50.797	ID:3	Broadcast recv from 29 of 10 with id 38
+07:00.753	ID:1	Send me a message
+07:00.764	ID:19	Broadcast message sent 39
+07:00.772	ID:9	Broadcast recv from 19 of 19 with id 39
+07:00.772	ID:10	Broadcast recv from 19 of 19 with id 39
+07:00.772	ID:11	Broadcast recv from 19 of 19 with id 39
+07:00.774	ID:9	Broadcast message sent
+07:00.774	ID:10	Broadcast message sent
+07:00.774	ID:11	Broadcast message sent
+07:00.782	ID:1	Broadcast recv from 9 of 19 with id 39
+07:00.782	ID:3	Broadcast recv from 10 of 19 with id 39
+07:00.782	ID:2	Broadcast recv from 10 of 19 with id 39
+07:00.784	ID:1	Broadcast message sent
+07:00.785	ID:3	Broadcast message sent
+07:00.785	ID:2	Broadcast message sent
+07:00.790	ID:1	Send me a message
+07:00.793	ID:5	Broadcast recv from 2 of 19 with id 39
+07:00.793	ID:13	Broadcast recv from 3 of 19 with id 39
+07:00.793	ID:9	Broadcast recv from 1 of 19 with id 39
+07:00.795	ID:5	Broadcast message sent
+07:00.795	ID:13	Broadcast message sent
+07:00.803	ID:2	Broadcast recv from 5 of 19 with id 39
+07:00.803	ID:4	Broadcast recv from 5 of 19 with id 39
+07:00.803	ID:7	Broadcast recv from 5 of 19 with id 39
+07:00.803	ID:8	Broadcast recv from 5 of 19 with id 39
+07:00.803	ID:29	Broadcast recv from 13 of 19 with id 39
+07:00.803	ID:6	Broadcast recv from 5 of 19 with id 39
+07:00.803	ID:25	Broadcast recv from 13 of 19 with id 39
+07:00.803	ID:27	Broadcast recv from 5 of 19 with id 39
+07:00.803	ID:12	Broadcast recv from 13 of 19 with id 39
+07:00.803	ID:21	Broadcast recv from 13 of 19 with id 39
+07:00.803	ID:3	Broadcast recv from 13 of 19 with id 39
+07:10.784	ID:1	Send me a message
+07:10.795	ID:6	Broadcast message sent 40
+07:10.803	ID:1	Broadcast recv from 6 of 6 with id 40
+07:10.803	ID:4	Broadcast recv from 6 of 6 with id 40
+07:10.803	ID:9	Broadcast recv from 6 of 6 with id 40
+07:10.803	ID:8	Broadcast recv from 6 of 6 with id 40
+07:10.803	ID:5	Broadcast recv from 6 of 6 with id 40
+07:10.803	ID:7	Broadcast recv from 6 of 6 with id 40
+07:10.805	ID:9	Broadcast message sent
+07:10.805	ID:1	Broadcast message sent
+07:10.805	ID:8	Broadcast message sent
+07:10.805	ID:4	Broadcast message sent
+07:10.805	ID:5	Broadcast message sent
+07:10.805	ID:7	Broadcast message sent
+07:10.811	ID:1	Send me a message
+07:10.819	ID:9	Broadcast recv from 1 of 6 with id 40
+07:10.819	ID:6	Broadcast recv from 1 of 6 with id 40
+07:10.821	ID:9	Broadcast message sent
+07:10.829	ID:1	Broadcast recv from 9 of 6 with id 40
+07:10.829	ID:6	Broadcast recv from 9 of 6 with id 40
+07:10.829	ID:10	Broadcast recv from 9 of 6 with id 40
+07:10.829	ID:19	Broadcast recv from 9 of 6 with id 40
+07:10.829	ID:4	Broadcast recv from 9 of 6 with id 40
+07:10.831	ID:19	Broadcast message sent
+07:10.831	ID:10	Broadcast message sent
+07:10.831	ID:4	Broadcast message sent
+07:10.839	ID:7	Broadcast recv from 4 of 6 with id 40
+07:10.839	ID:8	Broadcast recv from 4 of 6 with id 40
+07:10.839	ID:3	Broadcast recv from 10 of 6 with id 40
+07:20.808	ID:1	Send me a message
+07:20.820	ID:10	Broadcast message sent 41
+07:20.828	ID:3	Broadcast recv from 10 of 10 with id 41
+07:20.828	ID:19	Broadcast recv from 10 of 10 with id 41
+07:20.828	ID:2	Broadcast recv from 10 of 10 with id 41
+07:20.828	ID:4	Broadcast recv from 10 of 10 with id 41
+07:20.828	ID:9	Broadcast recv from 10 of 10 with id 41
+07:20.830	ID:19	Broadcast message sent
+07:20.830	ID:3	Broadcast message sent
+07:20.830	ID:2	Broadcast message sent
+07:20.830	ID:4	Broadcast message sent
+07:20.830	ID:9	Broadcast message sent
+07:20.838	ID:13	Broadcast recv from 3 of 10 with id 41
+07:20.838	ID:7	Broadcast recv from 4 of 10 with id 41
+07:20.838	ID:11	Broadcast recv from 19 of 10 with id 41
+07:20.841	ID:7	Broadcast message sent
+07:20.841	ID:13	Broadcast message sent
+07:20.841	ID:11	Broadcast message sent
+07:20.849	ID:4	Broadcast recv from 7 of 10 with id 41
+07:20.849	ID:5	Broadcast recv from 7 of 10 with id 41
+07:20.849	ID:6	Broadcast recv from 7 of 10 with id 41
+07:20.849	ID:8	Broadcast recv from 7 of 10 with id 41
+07:20.849	ID:29	Broadcast recv from 13 of 10 with id 41
+07:20.849	ID:21	Broadcast recv from 13 of 10 with id 41
+07:20.849	ID:3	Broadcast recv from 13 of 10 with id 41
+07:20.849	ID:25	Broadcast recv from 13 of 10 with id 41
+07:20.849	ID:19	Broadcast recv from 11 of 10 with id 41
+07:20.851	ID:5	Broadcast message sent
+07:20.851	ID:6	Broadcast message sent
+07:20.851	ID:8	Broadcast message sent
+07:20.851	ID:21	Broadcast message sent
+07:20.851	ID:29	Broadcast message sent
+07:20.851	ID:25	Broadcast message sent
+07:20.859	ID:1	Broadcast recv from 6 of 10 with id 41
+07:20.859	ID:18	Broadcast recv from 21 of 10 with id 41
+07:20.859	ID:3	Broadcast recv from 29 of 10 with id 41
+07:30.808	ID:1	Send me a message
+07:30.813	ID:26	Broadcast message sent 42
+07:30.821	ID:30	Broadcast recv from 26 of 26 with id 42
+07:30.821	ID:2	Broadcast recv from 26 of 26 with id 42
+07:30.821	ID:3	Broadcast recv from 26 of 26 with id 42
+07:30.821	ID:29	Broadcast recv from 26 of 26 with id 42
+07:30.821	ID:16	Broadcast recv from 26 of 26 with id 42
+07:30.821	ID:27	Broadcast recv from 26 of 26 with id 42
+07:30.824	ID:30	Broadcast message sent
+07:30.824	ID:2	Broadcast message sent
+07:30.824	ID:3	Broadcast message sent
+07:30.824	ID:16	Broadcast message sent
+07:30.824	ID:29	Broadcast message sent
+07:30.824	ID:27	Broadcast message sent
+07:40.808	ID:1	Send me a message
+07:40.820	ID:30	Broadcast message sent 43
+07:40.828	ID:27	Broadcast recv from 30 of 30 with id 43
+07:40.828	ID:23	Broadcast recv from 30 of 30 with id 43
+07:40.828	ID:26	Broadcast recv from 30 of 30 with id 43
+07:40.828	ID:29	Broadcast recv from 30 of 30 with id 43
+07:40.828	ID:16	Broadcast recv from 30 of 30 with id 43
+07:40.830	ID:23	Broadcast message sent
+07:40.830	ID:27	Broadcast message sent
+07:40.830	ID:26	Broadcast message sent
+07:40.830	ID:29	Broadcast message sent
+07:40.831	ID:16	Broadcast message sent
+07:50.808	ID:1	Send me a message
+07:50.815	ID:4	Broadcast message sent 44
+07:50.823	ID:2	Broadcast recv from 4 of 4 with id 44
+07:50.823	ID:6	Broadcast recv from 4 of 4 with id 44
+07:50.823	ID:7	Broadcast recv from 4 of 4 with id 44
+07:50.823	ID:8	Broadcast recv from 4 of 4 with id 44
+07:50.823	ID:10	Broadcast recv from 4 of 4 with id 44
+07:50.823	ID:9	Broadcast recv from 4 of 4 with id 44
+07:50.823	ID:5	Broadcast recv from 4 of 4 with id 44
+07:50.825	ID:2	Broadcast message sent
+07:50.825	ID:7	Broadcast message sent
+07:50.825	ID:8	Broadcast message sent
+07:50.825	ID:10	Broadcast message sent
+07:50.825	ID:9	Broadcast message sent
+07:50.825	ID:5	Broadcast message sent
+07:50.825	ID:6	Broadcast message sent
+08:00.808	ID:1	Send me a message
+08:00.824	ID:18	Broadcast message sent 45
+08:00.832	ID:14	Broadcast recv from 18 of 18 with id 45
+08:00.832	ID:21	Broadcast recv from 18 of 18 with id 45
+08:00.835	ID:14	Broadcast message sent
+08:00.835	ID:21	Broadcast message sent
+08:10.808	ID:1	Send me a message
+08:20.808	ID:1	Send me a message
+08:20.820	ID:30	Broadcast message sent 46
+08:20.828	ID:27	Broadcast recv from 30 of 30 with id 46
+08:20.828	ID:23	Broadcast recv from 30 of 30 with id 46
+08:20.828	ID:26	Broadcast recv from 30 of 30 with id 46
+08:20.828	ID:29	Broadcast recv from 30 of 30 with id 46
+08:20.828	ID:16	Broadcast recv from 30 of 30 with id 46
+08:20.830	ID:23	Broadcast message sent
+08:20.830	ID:27	Broadcast message sent
+08:20.830	ID:26	Broadcast message sent
+08:20.830	ID:29	Broadcast message sent
+08:20.831	ID:16	Broadcast message sent
+08:30.808	ID:1	Send me a message
+08:30.820	ID:10	Broadcast message sent 47
+08:30.828	ID:3	Broadcast recv from 10 of 10 with id 47
+08:30.828	ID:19	Broadcast recv from 10 of 10 with id 47
+08:30.828	ID:2	Broadcast recv from 10 of 10 with id 47
+08:30.828	ID:4	Broadcast recv from 10 of 10 with id 47
+08:30.828	ID:9	Broadcast recv from 10 of 10 with id 47
+08:30.830	ID:19	Broadcast message sent
+08:30.830	ID:3	Broadcast message sent
+08:30.830	ID:2	Broadcast message sent
+08:30.830	ID:4	Broadcast message sent
+08:30.830	ID:9	Broadcast message sent
+08:30.838	ID:13	Broadcast recv from 3 of 10 with id 47
+08:30.838	ID:7	Broadcast recv from 4 of 10 with id 47
+08:30.838	ID:11	Broadcast recv from 19 of 10 with id 47
+08:30.841	ID:7	Broadcast message sent
+08:30.841	ID:13	Broadcast message sent
+08:30.841	ID:11	Broadcast message sent
+08:30.849	ID:4	Broadcast recv from 7 of 10 with id 47
+08:30.849	ID:5	Broadcast recv from 7 of 10 with id 47
+08:30.849	ID:6	Broadcast recv from 7 of 10 with id 47
+08:30.849	ID:8	Broadcast recv from 7 of 10 with id 47
+08:30.849	ID:29	Broadcast recv from 13 of 10 with id 47
+08:30.849	ID:21	Broadcast recv from 13 of 10 with id 47
+08:30.849	ID:3	Broadcast recv from 13 of 10 with id 47
+08:30.849	ID:25	Broadcast recv from 13 of 10 with id 47
+08:30.849	ID:17	Broadcast recv from 11 of 10 with id 47
+08:30.849	ID:19	Broadcast recv from 11 of 10 with id 47
+08:30.851	ID:5	Broadcast message sent
+08:30.851	ID:6	Broadcast message sent
+08:30.851	ID:8	Broadcast message sent
+08:30.851	ID:21	Broadcast message sent
+08:30.851	ID:29	Broadcast message sent
+08:30.851	ID:25	Broadcast message sent
+08:30.851	ID:17	Broadcast message sent
+08:30.859	ID:1	Broadcast recv from 6 of 10 with id 47
+08:30.859	ID:3	Broadcast recv from 29 of 10 with id 47
+08:30.859	ID:11	Broadcast recv from 17 of 10 with id 47
+08:40.808	ID:1	Send me a message
+08:40.815	ID:4	Broadcast message sent 48
+08:40.823	ID:2	Broadcast recv from 4 of 4 with id 48
+08:40.823	ID:6	Broadcast recv from 4 of 4 with id 48
+08:40.823	ID:7	Broadcast recv from 4 of 4 with id 48
+08:40.823	ID:8	Broadcast recv from 4 of 4 with id 48
+08:40.823	ID:10	Broadcast recv from 4 of 4 with id 48
+08:40.823	ID:9	Broadcast recv from 4 of 4 with id 48
+08:40.823	ID:5	Broadcast recv from 4 of 4 with id 48
+08:40.825	ID:2	Broadcast message sent
+08:40.825	ID:7	Broadcast message sent
+08:40.825	ID:8	Broadcast message sent
+08:40.825	ID:10	Broadcast message sent
+08:40.825	ID:9	Broadcast message sent
+08:40.825	ID:5	Broadcast message sent
+08:40.825	ID:6	Broadcast message sent
+08:50.808	ID:1	Send me a message
+08:50.826	ID:21	Broadcast message sent 49
+08:50.834	ID:18	Broadcast recv from 21 of 21 with id 49
+08:50.834	ID:14	Broadcast recv from 21 of 21 with id 49
+08:50.834	ID:25	Broadcast recv from 21 of 21 with id 49
+08:50.835	ID:28	Broadcast recv from 21 of 21 with id 49
+08:50.835	ID:13	Broadcast recv from 21 of 21 with id 49
+08:50.837	ID:25	Broadcast message sent
+08:50.837	ID:18	Broadcast message sent
+08:50.837	ID:28	Broadcast message sent
+08:50.837	ID:13	Broadcast message sent
+08:50.837	ID:14	Broadcast message sent
+08:50.845	ID:3	Broadcast recv from 13 of 21 with id 49
+08:50.847	ID:3	Broadcast message sent
+08:50.855	ID:2	Broadcast recv from 3 of 21 with id 49
+08:50.855	ID:10	Broadcast recv from 3 of 21 with id 49
+08:50.855	ID:13	Broadcast recv from 3 of 21 with id 49
+08:50.855	ID:26	Broadcast recv from 3 of 21 with id 49
+08:50.855	ID:29	Broadcast recv from 3 of 21 with id 49
+08:50.857	ID:29	Broadcast message sent
+08:50.857	ID:26	Broadcast message sent
+08:50.858	ID:10	Broadcast message sent
+08:50.858	ID:2	Broadcast message sent
+08:50.866	ID:9	Broadcast recv from 10 of 21 with id 49
+08:50.866	ID:19	Broadcast recv from 10 of 21 with id 49
+08:50.866	ID:13	Broadcast recv from 29 of 21 with id 49
+09:00.808	ID:1	Send me a message
+09:00.820	ID:15	Broadcast message sent 50
+09:00.828	ID:23	Broadcast recv from 15 of 15 with id 50
+09:00.828	ID:25	Broadcast recv from 15 of 15 with id 50
+09:00.828	ID:20	Broadcast recv from 15 of 15 with id 50
+09:00.830	ID:25	Broadcast message sent
+09:00.830	ID:23	Broadcast message sent
+09:00.830	ID:20	Broadcast message sent
+09:00.838	ID:21	Broadcast recv from 25 of 15 with id 50
+09:00.838	ID:28	Broadcast recv from 25 of 15 with id 50
+09:00.841	ID:21	Broadcast message sent
+09:00.841	ID:28	Broadcast message sent
+09:10.808	ID:1	Send me a message
+09:10.815	ID:4	Broadcast message sent 51
+09:10.823	ID:2	Broadcast recv from 4 of 4 with id 51
+09:10.823	ID:6	Broadcast recv from 4 of 4 with id 51
+09:10.823	ID:7	Broadcast recv from 4 of 4 with id 51
+09:10.823	ID:8	Broadcast recv from 4 of 4 with id 51
+09:10.823	ID:10	Broadcast recv from 4 of 4 with id 51
+09:10.823	ID:9	Broadcast recv from 4 of 4 with id 51
+09:10.823	ID:5	Broadcast recv from 4 of 4 with id 51
+09:10.825	ID:2	Broadcast message sent
+09:10.825	ID:7	Broadcast message sent
+09:10.825	ID:8	Broadcast message sent
+09:10.825	ID:10	Broadcast message sent
+09:10.825	ID:9	Broadcast message sent
+09:10.825	ID:5	Broadcast message sent
+09:10.825	ID:6	Broadcast message sent
+09:20.808	ID:1	Send me a message
+09:20.817	ID:22	Broadcast message sent 52
+09:20.825	ID:14	Broadcast recv from 22 of 22 with id 52
+09:20.828	ID:14	Broadcast message sent
+09:20.836	ID:18	Broadcast recv from 14 of 22 with id 52
+09:20.836	ID:21	Broadcast recv from 14 of 22 with id 52
+09:20.836	ID:22	Broadcast recv from 14 of 22 with id 52
+09:20.836	ID:28	Broadcast recv from 14 of 22 with id 52
+09:20.838	ID:21	Broadcast message sent
+09:20.838	ID:28	Broadcast message sent
+09:20.838	ID:18	Broadcast message sent
+09:30.808	ID:1	Send me a message
+09:30.813	ID:26	Broadcast message sent 53
+09:30.821	ID:30	Broadcast recv from 26 of 26 with id 53
+09:30.821	ID:16	Broadcast recv from 26 of 26 with id 53
+09:30.821	ID:2	Broadcast recv from 26 of 26 with id 53
+09:30.821	ID:3	Broadcast recv from 26 of 26 with id 53
+09:30.821	ID:29	Broadcast recv from 26 of 26 with id 53
+09:30.821	ID:27	Broadcast recv from 26 of 26 with id 53
+09:30.824	ID:30	Broadcast message sent
+09:30.824	ID:2	Broadcast message sent
+09:30.824	ID:3	Broadcast message sent
+09:30.824	ID:16	Broadcast message sent
+09:30.824	ID:29	Broadcast message sent
+09:30.824	ID:27	Broadcast message sent
+09:40.808	ID:1	Send me a message
+09:40.820	ID:30	Broadcast message sent 54
+09:40.828	ID:23	Broadcast recv from 30 of 30 with id 54
+09:40.828	ID:27	Broadcast recv from 30 of 30 with id 54
+09:40.828	ID:26	Broadcast recv from 30 of 30 with id 54
+09:40.828	ID:29	Broadcast recv from 30 of 30 with id 54
+09:40.828	ID:16	Broadcast recv from 30 of 30 with id 54
+09:40.830	ID:23	Broadcast message sent
+09:40.830	ID:27	Broadcast message sent
+09:40.830	ID:26	Broadcast message sent
+09:40.831	ID:29	Broadcast message sent
+09:40.831	ID:16	Broadcast message sent
+09:50.808	ID:1	Send me a message
+10:00.808	ID:1	Send me a message
+10:00.817	ID:22	Broadcast message sent 55
+10:00.825	ID:14	Broadcast recv from 22 of 22 with id 55
+10:00.828	ID:14	Broadcast message sent
+10:00.836	ID:18	Broadcast recv from 14 of 22 with id 55
+10:00.836	ID:21	Broadcast recv from 14 of 22 with id 55
+10:00.836	ID:22	Broadcast recv from 14 of 22 with id 55
+10:00.836	ID:28	Broadcast recv from 14 of 22 with id 55
+10:00.838	ID:21	Broadcast message sent
+10:00.838	ID:28	Broadcast message sent
+10:00.838	ID:18	Broadcast message sent
+10:10.808	ID:1	Send me a message
+10:10.822	ID:29	Broadcast message sent 56
+10:10.830	ID:3	Broadcast recv from 29 of 29 with id 56
+10:10.830	ID:12	Broadcast recv from 29 of 29 with id 56
+10:10.830	ID:13	Broadcast recv from 29 of 29 with id 56
+10:10.830	ID:26	Broadcast recv from 29 of 29 with id 56
+10:10.830	ID:30	Broadcast recv from 29 of 29 with id 56
+10:10.830	ID:16	Broadcast recv from 29 of 29 with id 56
+10:10.830	ID:23	Broadcast recv from 29 of 29 with id 56
+10:10.833	ID:26	Broadcast message sent
+10:10.833	ID:30	Broadcast message sent
+10:10.833	ID:12	Broadcast message sent
+10:10.833	ID:3	Broadcast message sent
+10:10.833	ID:13	Broadcast message sent
+10:10.833	ID:16	Broadcast message sent
+10:10.833	ID:23	Broadcast message sent
+10:10.841	ID:17	Broadcast recv from 12 of 29 with id 56
+10:10.843	ID:17	Broadcast message sent
+10:10.851	ID:12	Broadcast recv from 17 of 29 with id 56
+10:10.851	ID:11	Broadcast recv from 17 of 29 with id 56
+10:10.851	ID:24	Broadcast recv from 17 of 29 with id 56
+10:10.853	ID:11	Broadcast message sent
+10:10.853	ID:24	Broadcast message sent
+10:10.861	ID:19	Broadcast recv from 11 of 29 with id 56
+10:10.862	ID:13	Broadcast recv from 24 of 29 with id 56
+10:10.862	ID:18	Broadcast recv from 24 of 29 with id 56
+10:20.808	ID:1	Send me a message
+10:20.823	ID:14	Broadcast message sent 57
+10:20.831	ID:18	Broadcast recv from 14 of 14 with id 57
+10:20.831	ID:28	Broadcast recv from 14 of 14 with id 57
+10:20.831	ID:21	Broadcast recv from 14 of 14 with id 57
+10:20.831	ID:22	Broadcast recv from 14 of 14 with id 57
+10:20.833	ID:18	Broadcast message sent
+10:20.833	ID:21	Broadcast message sent
+10:20.833	ID:22	Broadcast message sent
+10:20.833	ID:28	Broadcast message sent
