@@ -2,67 +2,66 @@ import sys
 import numpy as np
 from datetime import datetime
 TOTAL_NODES = 30
-DEVICE_NUM = 4
+DEVICE_NUM_INDEX = 4
 BROADCAST_INDEX = 2
 TIMESTAMP_INDEX = 0
 TIMESTAMP_FORMAT = '%M:%S.%f'
-WARMUP_TIME = datetime.strptime('05:00.000', TIMESTAMP_FORMAT)
+TIME_TO_STABILIZE = datetime.strptime('05:00.000', TIMESTAMP_FORMAT)
+POWERTRACE_STR = 'P'
+BROADCAST_STR = 'Broadcast'
+BRD_SENT_STR = 'sent'
+BRD_RECV_STR = 'recv'
+POWERTRACE_ID_INDEX = 3
 
 def main():
-    current_message_num = -1
-    cur_start_time = None
-    last_received_time = None
     if len(sys.argv) > 1:
         log_file = sys.argv[1]
     else:
-        log_file = 'log_full.txt'
-    with open('Logs/' + log_file) as log_file:
-        count = 0
-        msg_times = {}
-        msg_receivers = {}
-        total_power_devices = [0.0] * TOTAL_NODES
-        power_readings = [0] * TOTAL_NODES
-        for line in log_file:
-            if len(line) == 0:
+        log_file = 'Logs/log_full.txt'
+    with open(log_file) as log_file:
+        dissemination_durations = {}
+        dissemination_receivers = {}
+        total_power = [0.0] * TOTAL_NODES
+        num_power_readings = [0] * TOTAL_NODES
+        for log in log_file:
+            if len(log) == 0:
                 break
-            values = line.split()
-            log_time = datetime.strptime(values[TIMESTAMP_INDEX], TIMESTAMP_FORMAT)
-            if log_time < WARMUP_TIME:
+            log_values = log.split()
+            log_time = datetime.strptime(log_values[TIMESTAMP_INDEX], TIMESTAMP_FORMAT)
+            if log_time < TIME_TO_STABILIZE:
                 continue
-            if values[3] == 'P':
+            if log_values[POWERTRACE_ID_INDEX] == POWERTRACE_STR:
                 # Incase of powertrace output
-                power = calculate_power(values)
-                device_number = int(float(values[DEVICE_NUM]))
-                total_power_devices[device_number - 1] += power
-                power_readings[device_number - 1] += 1
-            elif values[BROADCAST_INDEX] == 'Broadcast':
-                msg_receiver = values[1]
+                power = calculate_power(log_values)
+                device_number = int(float(log_values[DEVICE_NUM_INDEX]))
+                total_power[device_number - 1] += power
+                num_power_readings[device_number - 1] += 1
+            elif log_values[BROADCAST_INDEX] == BROADCAST_STR:
+                receiver_id = log_values[1]
                 # Incase of broadcast message
-                if values[4] == 'sent' and len(values) == 6:
+                if log_values[4] == BRD_SENT_STR and len(log_values) == 6:
                     # Case of first broadcast message
-                    msg_num = int(values[5])
-                    msg_times[msg_num] = (log_time, None)
-                    msg_receivers[msg_num] = set()
-                    msg_receivers[msg_num].add(msg_receiver)
-                elif values[3] == 'recv':
+                    dissemination_id = int(log_values[5])
+                    dissemination_durations[dissemination_id] = (log_time, None)
+                    dissemination_receivers[dissemination_id] = set()
+                    dissemination_receivers[dissemination_id].add(receiver_id)
+                elif log_values[3] == BRD_RECV_STR:
                     # Case of some message received
-                    msg_number = int(values[10])
-                    if msg_number in msg_times:
-                        (strt_time, _) = msg_times[msg_number]
-                        msg_times[msg_number] = (strt_time, log_time)
-                        msg_receivers[msg_number].add(msg_receiver)
-    calc_avg_loss_rate(msg_receivers)
-
-    calc_avg_power_consumption(total_power_devices, power_readings)
-
-    calc_avg_dissemination_time(msg_times)
+                    dissemination_id = int(log_values[10])
+                    if dissemination_id in dissemination_durations:
+                        (strt_time, _) = dissemination_durations[dissemination_id]
+                        dissemination_durations[dissemination_id] = (strt_time, log_time)
+                        dissemination_receivers[dissemination_id].add(receiver_id)
+        calc_avg_loss_rate(dissemination_receivers)
+        calc_avg_power_consumption(total_power, num_power_readings)
+        calc_avg_dissemination_delay(dissemination_durations)
 
 
-def calc_avg_loss_rate(msg_receivers):
+def calc_avg_loss_rate(dissemination_receivers):
     total_msgs = 0
     total_loss_rate = 0.0
-    for msg in msg_receivers:
-        receivers = msg_receivers[msg]
+    for msg in dissemination_receivers:
+        receivers = dissemination_receivers[msg]
         if receivers is not None:
             loss_rate = len(receivers)/float(TOTAL_NODES)
             total_loss_rate += loss_rate
@@ -72,31 +71,31 @@ def calc_avg_loss_rate(msg_receivers):
     avg_loss_rate = total_loss_rate / total_msgs * 100
     print "Average end to end loss rate:\t", round(avg_loss_rate, 2), "%"
 
-def calc_avg_power_consumption(total_power_devices, power_readings):
+def calc_avg_power_consumption(total_power, num_power_readings):
     average_powers = [0.0] * TOTAL_NODES
 
     for device_index in range(TOTAL_NODES):
-        if power_readings[device_index] is not 0:
-            average_powers[device_index] = total_power_devices[device_index]/power_readings[device_index]
+        if num_power_readings[device_index] is not 0:
+            average_powers[device_index] = total_power[device_index]/num_power_readings[device_index]
 
     print "Average power consumption per node:\t", round(np.mean(average_powers), 2), "mW"
 
-def calc_avg_dissemination_time(msg_times):
+def calc_avg_dissemination_delay(dissemination_durations):
     total_delay = 0.0
     total_msgs = 0
-    for msg in msg_times:
-        (strt, end) = msg_times[msg]
+    for msg in dissemination_durations:
+        (strt, end) = dissemination_durations[msg]
         if end is not None:
             total_delay += (end - strt).microseconds / 1000
             total_msgs += 1
     avg_delay = total_delay / total_msgs
     print "Average dissemination delay:\t", round(avg_delay, 2), "milliseconds"
 
-def calculate_power(values):
-    CPU = float(values[12]) * 1.8
-    LPM = float(values[13]) * 0.0545
-    TX = float(values[14]) * 19.5
-    RX = float(values[15]) * 21.8
+def calculate_power(log_values):
+    CPU = float(log_values[12]) * 1.8
+    LPM = float(log_values[13]) * 0.0545
+    TX = float(log_values[14]) * 19.5
+    RX = float(log_values[15]) * 21.8
     power = (CPU + LPM + TX + RX) * 3 / 327680
     return power
 
