@@ -44,6 +44,7 @@ def main():
                     dissemination_id = int(log_values[5])
                     dissemination_durations[dissemination_id] = (log_time, None)
                     dissemination_receivers[dissemination_id] = set()
+                    dissemination_receivers[dissemination_id].add(receiver_id)
                 elif log_values[3] == BRD_RECV_STR:
                     # Case of some message received
                     dissemination_id = int(log_values[10])
@@ -89,7 +90,10 @@ def calc_avg_dissemination_delay(dissemination_durations, dissemination_receiver
                 if end is not None:
                     total_delay += (end - strt).microseconds / 1000
                     total_msgs += 1
-    avg_delay = total_delay / total_msgs
+    if total_msgs > 0:
+        avg_delay = total_delay / total_msgs
+    else:
+        avg_delay = -1
     print "Average dissemination delay:\t", round(avg_delay, 2), "ms"
 
 def calculate_power(log_values):
