@@ -53,7 +53,7 @@ def main():
                         dissemination_receivers[dissemination_id].add(receiver_id)
         calc_avg_loss_rate(dissemination_receivers)
         calc_avg_power_consumption(total_power, num_power_readings)
-        calc_avg_dissemination_delay(dissemination_durations)
+        calc_avg_dissemination_delay(dissemination_durations, dissemination_receivers)
 
 
 def calc_avg_loss_rate(dissemination_receivers):
@@ -79,16 +79,18 @@ def calc_avg_power_consumption(total_power, num_power_readings):
 
     print "Average power consumption per node:\t", round(np.mean(average_powers), 2), "mW"
 
-def calc_avg_dissemination_delay(dissemination_durations):
+def calc_avg_dissemination_delay(dissemination_durations, dissemination_receivers):
     total_delay = 0.0
     total_msgs = 0
-    for msg in dissemination_durations:
-        (strt, end) = dissemination_durations[msg]
-        if end is not None:
-            total_delay += (end - strt).microseconds / 1000
-            total_msgs += 1
+    for msg in dissemination_receivers:
+        if len(dissemination_receivers[msg]) == TOTAL_NODES:
+            if msg in dissemination_durations:
+                (strt, end) = dissemination_durations[msg]
+                if end is not None:
+                    total_delay += (end - strt).microseconds / 1000
+                    total_msgs += 1
     avg_delay = total_delay / total_msgs
-    print "Average dissemination delay:\t", round(avg_delay, 2), "milliseconds"
+    print "Average dissemination delay:\t", round(avg_delay, 2), "ms"
 
 def calculate_power(log_values):
     CPU = float(log_values[12]) * 1.8
