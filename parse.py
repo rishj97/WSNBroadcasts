@@ -44,7 +44,6 @@ def main():
                     dissemination_id = int(log_values[5])
                     dissemination_durations[dissemination_id] = (log_time, None)
                     dissemination_receivers[dissemination_id] = set()
-                    dissemination_receivers[dissemination_id].add(receiver_id)
                 elif log_values[3] == BRD_RECV_STR:
                     # Case of some message received
                     dissemination_id = int(log_values[10])
